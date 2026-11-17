@@ -1,0 +1,5 @@
+mysql_data/ 
+**/mysql_data/ 
+.idea/ 
+__pycache__/ 
+source_code_pdfs/
